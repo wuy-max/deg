@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(img/pexels-eberhard-grossgasteiger-1421903.jpg);
+    background: url('img/pexels-eberhard-grossgasteiger-1421903.jpg');
     background-size: cover;
 }
 .box {
