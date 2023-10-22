@@ -1,0 +1,7 @@
+body{
+    background-image: url("img/thao.jpg");
+   background-size: cover;
+    background-position: center top;
+
+  background-repeat: no-repeat; /* Không lặp lại hình ảnh */
+}
